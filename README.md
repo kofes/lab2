@@ -6,6 +6,7 @@
 
 ### Задача
 Создать игру в стиле *side scrolling shooter*, на подобии уровней с самолетом из cuphead.
+
 ![](n0lQZE.gif)
 ![](hilda-berg-cuphead-gif.gif)
 
